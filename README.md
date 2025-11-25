@@ -1,4 +1,4 @@
-# DoHyun Algorithm Repository
+# Chan Algorithm Repository
 
 > **“최소 하루 1문제, 반복 학습은 W1 → W2 → W3”**  
 > Issue와 PR을 활용하여 **체계적으로 학습**하는 것을 목표로 합니다.
